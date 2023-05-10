@@ -1,12 +1,11 @@
 ######################## default configuration ####################
-baseURL = "https://coruscating-mermaid-b74da7.netlify.app/"
+baseURL = "https://keratoconusguide.netlify.app/"
 languageCode = "en-us"
 title = "Keratoconus Health"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
-#keratoconusguide.disqus.com#
+disqusShortname = "keratoconusguide.disqus.com"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
