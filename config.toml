@@ -1,12 +1,12 @@
 ######################## default configuration ####################
 baseURL = "https://coruscating-mermaid-b74da7.netlify.app/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "Keratoconus Health"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
-
+#keratoconusguide.disqus.com#
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -50,7 +50,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Blog"
   URL = "blog"
   weight = 2
 
@@ -58,6 +58,11 @@ disqusShortname = ""
   name = "Contact"
   URL = "contact"
   weight = 3
+
+  [[menu.main]]
+  name = "Assets"
+  URL = "assets"
+  weight = 4
 
   # footer menu
   [[menu.footer]]
@@ -71,26 +76,26 @@ disqusShortname = ""
   weight = 2
 
   [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
+  name = "Privacy Policy"
+  URL = "privacy"
   weight = 3
+  
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+# logo = "images/kug_logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "keratoconus health site"
+author = "Heriberto Rangel."
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-96831082-1"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+email = "hrangelm@gmail.com"
+location = "Mexico City"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2021 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -105,7 +110,7 @@ copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = "Improve by paying attention to how we take care of our body and mind."
 
 
 # cookies
@@ -118,24 +123,22 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://facebook.com/heribertorm/"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/hrangelma/"
 
 [[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "reddit"
+icon = "ti-reddit" # themify icon : https://themify.me/themify-icons
+link = "https://www.reddit.com/r/Keratoconus/"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+############################# site map ############################
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
