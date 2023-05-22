@@ -1,11 +1,12 @@
 ######################## default configuration ####################
 baseURL = "https://keratoconusguide.netlify.app/"
 languageCode = "en-us"
-title = "Keratoconus Health"
+title = "Keratoconus Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = "keratoconusguide.disqus.com"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -86,13 +87,13 @@ disqusShortname = "keratoconusguide.disqus.com"
 # logo = "images/kug_logo.png"
 home = "Home"
 # Meta data
-description = "keratoconus health site"
+description = "Keratoconus health site"
 author = "Heriberto Rangel."
 # Google Analitycs
 googleAnalitycsID = "UA-96831082-1"
 # Contact Information
 email = "hrangelm@gmail.com"
-location = "Mexico City"
+location = "mexico city"
 # copyright
 copyright = "| copyright &copy; 2021 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
@@ -103,13 +104,13 @@ copyright = "| copyright &copy; 2021 [KUG](https://themefisher.com/hugo-themes/)
 
   # search
   [params.search]
-  enable = true
+  enable = false
 
 ############################ news letter ########################
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = "Improve by paying attention to how to take care of your body"
+content = "We can improve our life by bringing attention to what we do every day, how we take care of our body and mind."
 
 
 # cookies
