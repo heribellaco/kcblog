@@ -7,7 +7,7 @@ draft: false
 author : "Beto R."
 
 # post thumb
-image: "images/blog/katherine-hanlon.jpg"
+image: "images/post/katherine-hanlon.jpg"
 
 # meta description
 description: "Alternative and general ideas to manage your keratoconus eye symptoms"

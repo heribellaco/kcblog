@@ -95,7 +95,7 @@ googleAnalitycsID = "UA-96831082-1"
 email = "hrangelm@gmail.com"
 location = "mexico city"
 # copyright
-copyright = "| copyright &copy; 2021 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2023 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
