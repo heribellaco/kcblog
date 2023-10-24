@@ -24,7 +24,7 @@ type: "post"
 ---
 ---
 
-# Midday Fogging with Scleral Lenses: A Comprehensive Guide
+# Midday Fogging with Scleral Lenses
 
 ## Introduction
 
