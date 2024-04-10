@@ -12,7 +12,7 @@ description: "this are the assets from the e-book"
 # type
 type : "assets"
 ---
-Here you will find the image assets of the keratoconus guide available by request, so you have them if you have the printed book.
+Here you will find the images and assets of the keratoconus guide, so you have them if you have the printed book.
 
 https://github.com/heribellaco/kug_assets.git
 
