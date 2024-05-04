@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Keratoconus Blog"
 theme = "liva-hugo"
 summaryLength = "10"
-paginate = 6
+paginate = 8
 disqusShortname = "keratoconusguide.disqus.com"
 
 [outputs]
@@ -95,7 +95,7 @@ googleAnalitycsID = "UA-96831082-1"
 email = "hrangelm@gmail.com"
 location = "mexico city"
 # copyright
-copyright = "| copyright &copy; 2023 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2024 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -104,14 +104,13 @@ copyright = "| copyright &copy; 2023 [KUG](https://themefisher.com/hugo-themes/)
 
   # search
   [params.search]
-  enable = false
+  enable = true
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
-title = "Join Our Newsletter"
-content = "We can improve our life by bringing attention to what we do every day, how we take care of our body and mind."
-
+enable = false
+title = "Join the newsletter"
+content = "We can improve our life by bringing attention to what we do, how we take care of our body and mind."
 
 # cookies
 [params.cookies]

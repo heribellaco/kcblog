@@ -26,7 +26,7 @@ tags:
 type: "post"
 ---
 
-# A article about conditions that can cause keratoconus.
+# Article about conditions that can cause keratoconus.
 
 # 
 

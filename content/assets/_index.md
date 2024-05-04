@@ -12,11 +12,11 @@ description: "this are the assets from the e-book"
 # type
 type : "assets"
 ---
-Here you will find the images and assets of the keratoconus guide, so you have them if you have the printed book.
+Here you will find the images and assets of the keratoconus guide, so you have them if you have the printed book. Go to:
 
 https://github.com/heribellaco/kug_assets.git
 
-Just click the **code** green buttton and select download zip.
+Click the **code** green buttton and then select download zip.
 
 
 
