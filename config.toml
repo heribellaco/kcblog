@@ -110,7 +110,7 @@ copyright = "| copyright &copy; 2024 [KUG](https://themefisher.com/hugo-themes/)
 [params.newsletter]
 enable = false
 title = "Join the newsletter"
-content = "We can improve our life by bringing attention to what we do, how we take care of our body and mind."
+content = "We can improve our life by bringing attention to what we do; get the latest information and news about Keratoconus."
 
 # cookies
 [params.cookies]

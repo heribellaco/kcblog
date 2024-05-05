@@ -7,14 +7,14 @@ draft: false
 image: "images/author.jpg"
 
 # meta description
-description: "this is meta description"
+description: "this is a thank you page for subscribers"
 
 # type
 type : "thanks"
 ---
 
 Hi There!
-You are subscribed.
-<!-- I feel that when I take care of my body, I feel better, have more energy and my lens comfort and vision improves. -->
+**You are subscribed.**
+I feel that when I take care of my body, I feel better, have more energy and my lens comfort and vision improves.
 
 <!-- I have had several contact lens fittings over the years. What about you? Maybe you are looking for an alternative way of seeing things, if that is true you are in the right place, enjoy and try my ideas and Welcome! -->
