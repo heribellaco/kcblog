@@ -5,7 +5,7 @@ title = "Keratoconus Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 8
-disqusShortname = "keratoconusguide.disqus.com"
+disqusShortname = "keratoconusguide"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
