@@ -84,7 +84,7 @@ disqusShortname = "keratoconusguide"
 
 #################### default parameters ################################
 [params]
-# logo = "images/kug_logo.png"
+# logo = "images/logo2.png"
 home = "Home"
 # Meta data
 description = "Keratoconus health site"
