@@ -1,6 +1,6 @@
 ---
 title: "Keratoconus natural treatment"
-date: 2019-06-16T20:06:08+00:00
+date: 2019-12-16T20:06:08+00:00
 draft: false
 
 # post thumb
@@ -17,7 +17,7 @@ tags:
   - "therapy"
 
 # post type
-type: "blog"
+type: "featured"
 ---
 
 Have you heard about keratoconus cross-linking? What if we carry out a Keratoconus natural treatment by consuming riboflavin (vitamin B-2) orally and getting exposure to infrared sunlight by going outdoors? If you are recently diagnosed this could help.

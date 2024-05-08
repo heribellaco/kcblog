@@ -17,7 +17,7 @@ tags:
   - "Therapy"
 
 # post type
-type: "featured"
+type: "blog"
 ---
 
 Keratoconus is characterized by corneal thinning that results in distortion and loss of vision.
