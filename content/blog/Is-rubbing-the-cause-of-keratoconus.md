@@ -91,7 +91,7 @@ Wikipedia contributors. (2021, December 19). Correlation does not imply causatio
 
 let me know what you think! like, subscribe, or leave a comment below.
 
-Hi, I love to improve myself and others. Reach me on social or at:
+Hi, I love to improve. Reach me on social or at:
 
 {{< rawhtml >}}
 <a href="https://heribertorangel.com" target="_blank">heribertorangel.com</a>

@@ -68,6 +68,6 @@ let me know what you think! _**subscribe**_, or leave a **_comment_** below.
 
 Good Luck!
 
-Hi, I love to improve myself and others. Reach me on social media or at keratoconusguide.com
+Hi, I love to improve. Reach me on social or @ heribertorangel.com
 
 #### Join newsletter... and get info fast
