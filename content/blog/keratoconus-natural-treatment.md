@@ -70,4 +70,4 @@ Good Luck!
 
 Hi, I love to improve myself and others. Reach me on social media or at keratoconusguide.com
 
-#### Join #HealthyEyes news... and Get info fast
+#### Join newsletter... and get info fast
