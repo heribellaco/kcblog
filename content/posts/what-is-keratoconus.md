@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/keratoconus.jpg"
 
 # meta description
-description: "What is keratoconus? Get Informed: Go to the best doctor you can afford and buy the best contact lenses you can. try to be positive"
+description: "What is keratoconus?"
 
 # taxonomies
 categories:
@@ -22,11 +22,11 @@ type: "featured"
 What is keratoconus?
 --------------------
 
-Keratoconus from Greek: _kerato_ (cornea), and _konos_ cone. Is a condition of the cornea. The cornea is a lens in your eyes whose primary function is to focus the light rays from our environment into the retina in the back of our eyes.
+Keratoconus is basically a conical cornea. The cornea is a lens that focuses the light from our environment into the retina in the back of your eyes. If your cornea shape is altered, this will cause patterns of astigmatism and myopia hard to correct with glasses.
 
 ### How is keratoconus treated?
 
-Gas-permeable contact lenses are the first option for someone with keratoconus. Today exists a great variety of specialty contact lenses to fit the keratoconus cornea (corneal, scleral, hybrid). The other treatments are more invasive and expensive like crosslinking (to stop progression), intacts (flatten the cornea), or [_transplant_](https://www.mayoclinic.org/tests-procedures/cornea-transplant/about/pac-20385285) (worst case scenario), and you will probably still need contact lenses.
+Gas-permeable contact lenses are the first option for someone with keratoconus. Today there are great variety of specialty contact lenses to fit the keratoconus cornea (corneal, scleral, hybrid). The other treatments are more invasive and expensive like crosslinking (to stop progression), intacts (flatten the cornea), or [_transplant_](https://www.mayoclinic.org/tests-procedures/cornea-transplant/about/pac-20385285) (worst case scenario), and you will probably still need contact lenses.
 
 see the post [**_keratoconus overview_**](../keratoconus-overview/)
 
