@@ -87,12 +87,12 @@ disqusShortname = "keratoconusguide"
 home = "Home"
 # Meta data
 description = "Keratoconus health site"
-author = "Heriberto Rangel"
+author = "Heriberto R."
 # Google Analitycs
 googleAnalitycsID = "UA-96831082-1"
 # Contact Information
 email = "hrangelm@gmail.com"
-location = "mexico city"
+location = "Mexico city"
 # copyright
 copyright = "| copyright &copy; 2024 [KUG](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
