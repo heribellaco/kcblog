@@ -18,7 +18,7 @@ tags:
   - "old"
 
 # post type
-type: "featured"
+type: "post"
 ---
 Do you have keratoconus?
 ------------------------
@@ -33,7 +33,7 @@ Beto R.
 
 * * *
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://heribertorangel.com)
 
 * * *
 

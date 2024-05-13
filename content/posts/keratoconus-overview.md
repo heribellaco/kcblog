@@ -18,32 +18,22 @@ tags:
   - "Post"
 
 # post type
-type: "post"
+type: "featured"
 ---
 Keratoconus overview
 --------------------
 
-Keratoconus from Greek: _kerato_ (horn, cornea), and _konos_ cone. Is a condition of the cornea; the cornea is a lens whose primary function is to focus the light rays from our environment the retina in the back of our eye.
+Keratoconus from Greek: _kerato_ (horn, cornea), and _konos_ cone. Is a condition of the cornea; the cornea is a lens whose primary function is to focus the light rays from our environment the retina in the back of our eye. In the retina, there are receptors called _rods_ and _cones_ that send information about light and color through the optical nerve to the brain.
 
-In the retina, there are receptors called _rods_ and _cones_ that send information about light and color through the optical nerve to the brain.
+In the brain, this information is processed and an image is formed, so in reality, we see with our eyes and with our brain. Rods handle the peripheral vision, the vision in low light conditions and cones handle mostly color and detail.
 
-In the brain, this information is processed and an image is formed, so in reality, we see with our eyes and with our brain.
-
-Rods handle the peripheral vision, the vision in low light conditions and cones handle mostly color and detail.
-
-The keratoconus cornea bulges forward and instead of spherical becomes like a cone and therefore the name keratoconus.
-
-This bulging produces distorted patterns of light that become heavy myopia and astigmatism (refraction error).
+The keratoconus cornea bulges forward and instead of spherical becomes like a cone and therefore the name keratoconus. This bulging produces distorted patterns of light that become heavy myopia and astigmatism (refraction error).
 
 ### The Cornea
 
-[_The cornea_](https://en.wikipedia.org/wiki/Cornea) is one of the most important parts of the eye, if everything is right with your eyes, but your corneas are damaged, you won’t see very well.
-
-The cornea is the transparent part of the sclera (the white part), that allows the light rays to enter the eye and hit the retina to be able to see.
+[_The cornea_](https://en.wikipedia.org/wiki/Cornea) is one of the most important parts of the eye, if everything is right with your eyes, but your corneas are damaged, you won’t see very well. The cornea is the transparent part of the sclera (the white part), that allows the light rays to enter the eye to be able to see.
 
 You can think of the cornea as the lens of a camera. And it is this important function that people with keratoconus have problems with.
-
-The cornea is comprised of several layers of epithelial cells, each layer has a different function and is formed by different types of collagen fibers and thickness.
 
 The cornea even though it has no blood vessels except at its margin, is nourished from within the eye and from the outside by the oxygen in the air we breathe.
 
@@ -57,13 +47,9 @@ The cornea even though it has no blood vessels except at its margin, is nourishe
 
 From within the eye, the cornea receives nutrients from the aqueous humor, this is replenished continually and helps maintain the cornea’s convex shape by intraocular pressure.
 
-This aqueous humor and dead cells are then discharged through the channel of schlemm into the veins of the eye.
-
 The aqueous humor is a filtrate of blood and can be thought of as clear blood.1
 
 Even though aqueous humor contains no red blood cells and little protein, it carries oxygen and nutrients to the posterior cornea, lens, and iris, especially ascorbate (vitamin C) which has antioxidant properties.
-
-The aqueous humor or fluid is produced mainly in the ciliary process contained in the ciliary body and muscle, which encircles the lens and is an extension of the choroid a layer between the sclera and the retina.
 
 ### What causes keratoconus?
 
@@ -77,13 +63,9 @@ _**Globus** **cone**_. - _keratoglobus_, more than 6mm and hard to fit.
 
 ### Contact Lenses
 
->Contact lenses work by replacing the irregular surface of the cornea with the more correct shape of the lens so that the light rays are properly focused.
+>Contact lenses work by replacing the irregular surface of the cornea with the more correct shape of the lens so that the light rays are properly focused. In the preliminary stages of the disease, the refraction error can be corrected with glasses or soft contact lenses. Later with increased astigmatism, _toric_ soft contact lenses work for a while, but gradually rigid permeable gas contact lenses (RGP’s) are necessary to correct the distorted cornea and obtain acceptable vision.
 
-In the preliminary stages of the disease, the refraction error can be corrected with glasses or soft contact lenses.
-
-Later with increased astigmatism, _toric_ soft contact lenses work for a while, but gradually rigid permeable gas contact lenses (RGP’s) are necessary to correct the distorted cornea and obtain acceptable vision.
-
-Read more on the post: [_what it is keratoconus._](https://www.keratoconusguide.com/what-is-keratoconus/)
+<!-- Read more on the post: [_what it is keratoconus._](https://keratoconusguide.netlify.com/what-is-keratoconus/) -->
 
 * * *
 

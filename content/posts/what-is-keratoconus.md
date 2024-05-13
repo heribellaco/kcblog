@@ -73,7 +73,7 @@ Thanks for your interest and Good Luck.
 
 Heriberto R.
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://heribertorangel.com)
 
 * * *
 
