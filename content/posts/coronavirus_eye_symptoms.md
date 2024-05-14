@@ -37,17 +37,17 @@ Based on recent evidence, potential SARS-CoV-2 transmission through the ocular s
 
 It is hard to go to an ophthalmologist to get help, so buy your gear over the internet (solutions, safety glasses, cases, plungers, etc...)
 
-**Angiotensin-converting enzyme-2 (ACE-2)**
+<!--**Angiotensin-converting enzyme-2 (ACE-2)**
 
-![image](../../images/1R42.png)
+ ![image](../../images/1R42.png)
 
 Image of 1R42: Native Human Angiotensin-Converting Enzyme-Related Carboxypeptidase (ACE2) DOI: 10.2210/pdb1R42/pdb
 
-Protein from RCSB Protein Data Bank.
+Protein from RCSB Protein Data Bank. -->
 
 For more ideas read my book “Keratoconus User-Guide” a Health guide for people with keratoconus, [_available on Amazon_](https://www.amazon.com/dp/B082MB75HW).
 
-Also, read my post on "[_How to create a contacts routine_](https://www.keratoconusguide.com/how-to-create-a-contacts-routine/)."
+Also, read my post on "[_How to create a contacts routine_](/posts/how-to-create-a-contacts-routine/)."
 
 * * *
 

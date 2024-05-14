@@ -84,6 +84,7 @@ disqusShortname = "keratoconusguide"
 
 #################### default parameters ################################
 [params]
+logo = "images/kclife2.png"
 home = "Home"
 # Meta data
 description = "Keratoconus health site"
@@ -121,7 +122,7 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://facebook.com/heribertorm/"
+link = "https://facebook.com/betorangelm/"
 
 [[params.social]]
 title = "twitter"
