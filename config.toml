@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://keratoconusguide.netlify.app/"
 languageCode = "en-us"
-title = "Life with Keratoconus"
+title = "Keratoconus"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 8
@@ -84,7 +84,7 @@ disqusShortname = "keratoconusguide"
 
 #################### default parameters ################################
 [params]
-logo = "images/kclife3.png"
+logo = "images/kclife.png"
 home = "Home"
 # Meta data
 description = "Keratoconus health site"
