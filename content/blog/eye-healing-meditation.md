@@ -21,11 +21,11 @@ tags:
 type: "blog"
 ---
 
-You can think of health as a state of "**harmony"** between the different parts of yourself. Most alternative treatments like an _eye healing meditation_ are based on the concept that your body can regain balance and vitality itself. This is done by removing the stress that caused the problem in the first place, and then creating the conditions for your body to heal and restore.
+You can think of health as a state of "**harmony"** between the different parts of yourself. Most alternative treatments are based on the concept that your body can regain balance and vitality by itself. This is done by removing the stress that caused the problem in the first place, and then creating the conditions for your body to heal and restore.
 
 ### What is this guided eye healing meditation?
 
-This guided eye healing meditation is based in a Nero-Linguistic Programming (**NLP**) strategy discovered by studying the creative thinking process of Wolfgang Amadeus Mozart and applied it to help cure disease. This strategy is taken from Robert Dilts excellent book \**Beliefs\**.
+This guided meditation is based in a Nero-Linguistic Programming (**NLP**) strategy discovered by studying the creative thinking process of Wolfgang Amadeus Mozart and applied it to help cure disease. This strategy is taken from Robert Dilts excellent book \**Beliefs\**.
 
 This is a guided meditation which means you are going to listen to my voice, relax and imagine a color you like, a smell you adore, and also a sound that attracts you.
 
@@ -47,11 +47,12 @@ You must believe it will work and imagine fully associated  (your point of view
 
 I recommend trying this at the end of the day, it will help you relax before sleeping. You can listen to this recording when you want to relax; please remove your contacts.
 
-For color, I usually pick a clear blue color and the sound is a buzzing energy sound or the rolling of the ocean, the smell I use can be lavender or fresh grass. You can use anything that you like even classical music, the sound of rain or a Beatles song. Takes time to improve at this but it is a good practice and can help you learn to relax and probably to get you interested in learning meditation later.
+For color, I usually pick a clear blue color and the sound is a buzzing energy sound or the rolling of the ocean, the smell I use can be lavender or fresh grass. You can use anything that you like even classical music, the sound of rain or a Beatles song. Takes time to improve at this, but it is a good practice and can help you learn to relax and probably to get you interested in learning meditation later.
 
 * * *
 
 {{<audio src="healthy_eyes.mp3" caption="Healthy Eyes Healing Meditation" >}}
+
 
 * * *
 
