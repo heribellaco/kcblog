@@ -22,9 +22,6 @@ tags:
 # post type
 type: "post"
 ---
----
-
-## Introduction to fogging
 
 Scleral lenses have revolutionized the world of vision correction, offering comfort and clarity to individuals with a variety of eye conditions. However, one common issue that wearers often encounter is midday fogging. In this article, we will delve into the reasons behind midday fogging with scleral lenses and explore effective solutions to ensure your visual comfort throughout the day.
 
