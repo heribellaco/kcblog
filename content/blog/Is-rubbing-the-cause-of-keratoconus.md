@@ -21,7 +21,7 @@ type: "blog"
 ---
 ### What is Keratoconus?
 -----------
-Keratoconus is an eye disease that cause distorted vision. It's hard to diagnose, usually starts in the adolescence, and is believed to worsen with time. The basic treatment is "contact lenses" designed for keratoconus, but other options are available like “crosslinking” to strengthen the cornea, intracorneal rings to give more structure to it, and of course a corneal transplant. Glasses or normal contact lenses don’t correct the vision satisfactorily, so activities like reading and driving become impossible. Advanced cases need specialty contact lenses like Scleral lenses.
+Keratoconus is a corneal condition that affects vision. It's hard to diagnose, starts in the adolescence, and is suposed to worsen with time. The basic treatment is "contact lenses" for keratoconus, but other options are available like “crosslinking” to strengthen the cornea, intracorneal rings to give more structure to it, and of course a corneal transplant. Glasses or normal contact lenses don’t correct the vision satisfactorily, so activities like reading and driving become impossible. Advanced cases need specialty contact lenses like Scleral lenses.
 
 ### Why the rub?
 

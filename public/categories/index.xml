@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Keratoconus</title>
+    <link>https://keratoconusguide.netlify.app/categories/</link>
+    <description>Recent content in Categories on Keratoconus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Sep 2023 16:00:31 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post</title>
+      <link>https://keratoconusguide.netlify.app/categories/new-post/</link>
+      <pubDate>Sat, 16 Sep 2023 16:00:31 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/new-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keratoconus</title>
+      <link>https://keratoconusguide.netlify.app/categories/keratoconus/</link>
+      <pubDate>Mon, 02 Jan 2023 20:30:35 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/keratoconus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapy</title>
+      <link>https://keratoconusguide.netlify.app/categories/therapy/</link>
+      <pubDate>Thu, 23 Jul 2020 20:56:06 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/therapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Lenses</title>
+      <link>https://keratoconusguide.netlify.app/categories/contact-lenses/</link>
+      <pubDate>Wed, 08 Jan 2020 16:50:58 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/contact-lenses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treatment</title>
+      <link>https://keratoconusguide.netlify.app/categories/treatment/</link>
+      <pubDate>Mon, 16 Dec 2019 20:06:08 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/treatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>https://keratoconusguide.netlify.app/categories/india/</link>
+      <pubDate>Thu, 28 Nov 2019 01:16:57 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://keratoconusguide.netlify.app/categories/china/</link>
+      <pubDate>Tue, 30 Jul 2019 03:29:30 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis</title>
+      <link>https://keratoconusguide.netlify.app/categories/diagnosis/</link>
+      <pubDate>Thu, 28 Jun 2018 20:52:14 +0000</pubDate>
+      
+      <guid>https://keratoconusguide.netlify.app/categories/diagnosis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
