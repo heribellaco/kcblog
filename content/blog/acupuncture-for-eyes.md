@@ -50,7 +50,7 @@ There is a logic behind the treatment. Some points are stimulated with needles o
 
 **\***Application of heat
 
-### Acupuncture for eyes practitioners… i know of:
+### Acupuncture for eyes practitioners i know of
 
 UK , Bath: [Julian Scott](https://www.eyebright.me.uk/)
 
@@ -78,7 +78,7 @@ Thank you and Good luck!
 
 **Heriberto R.**
 
-Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com) or at [heribertorangel.com](http://heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 #### Join #HealthyEyes news... and Get info fast
 
