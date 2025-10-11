@@ -19,8 +19,6 @@ tags:
 # post type
 type: "blog"
 ---
-Keratoconus types of cones
---------------------------
 
 **Nipple cone** - small and centrally located about 5mm in size.  
 **Oval cone** - large in size between 5 and 6 mm.  
@@ -30,6 +28,6 @@ Keratoconus types of cones
 
 Whatever the type of cone, this can be located above or below within the cornea or temporally or nasally located and can be steep or sloped in shape.
 
-#### Join the email list! and Get information fast...
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *

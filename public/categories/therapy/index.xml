@@ -2,82 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Therapy on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/categories/therapy/</link>
+    <link>http://localhost:1313/categories/therapy/</link>
     <description>Recent content in Therapy on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 20:56:06 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/categories/therapy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2020 20:56:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/therapy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acupuncture for eyes troubles</title>
-      <link>https://keratoconusguide.netlify.app/blog/acupuncture-for-eyes/</link>
+      <link>http://localhost:1313/blog/acupuncture-for-eyes/</link>
       <pubDate>Thu, 23 Jul 2020 20:56:06 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/acupuncture-for-eyes/</guid>
-      <description>Introduction The most famous healing technique of Traditional Chinese medicine, acupuncture uses needles to stimulate your body to heal.</description>
+      <guid>http://localhost:1313/blog/acupuncture-for-eyes/</guid>
+      <description>&lt;p&gt;The famous treatment of Traditional Chinese medicine, &lt;strong&gt;&lt;em&gt;acupuncture&lt;/em&gt;&lt;/strong&gt; uses needles to stimulate your body to heal. The Chinese have recorded the points of the circulation of energy (qi), over the whole body for thousands of years, and therefore can apply needles to various places to treat hundreds of conditions. Acupuncture remains a secure way of balancing your emotions and relaxing your body.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>eye healing meditation</title>
-      <link>https://keratoconusguide.netlify.app/blog/eye-healing-meditation/</link>
-      <pubDate>Mon, 16 Sep 2019 18:11:54 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/eye-healing-meditation/</guid>
-      <description>You can think of health as a state of &amp;ldquo;harmony&amp;rdquo; between the different parts of yourself.</description>
+      <title>Keratoconus natural treatment</title>
+      <link>http://localhost:1313/blog/keratoconus-natural-treatment/</link>
+      <pubDate>Mon, 16 Dec 2019 20:06:08 +0000</pubDate>
+      <guid>http://localhost:1313/blog/keratoconus-natural-treatment/</guid>
+      <description>&lt;p&gt;Have you heard about keratoconus cross-linking? What if we carry out a Keratoconus natural treatment by consuming riboflavin (vitamin B-2) orally and getting exposure to infrared sunlight by going outdoors? If you are recently diagnosed this could help.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Eye healing meditation</title>
+      <link>http://localhost:1313/blog/eye-healing-meditation/</link>
+      <pubDate>Mon, 16 Sep 2019 18:11:54 +0000</pubDate>
+      <guid>http://localhost:1313/blog/eye-healing-meditation/</guid>
+      <description>&lt;p&gt;You can think of health as a state of &amp;ldquo;&lt;strong&gt;harmony&amp;rdquo;&lt;/strong&gt; between the different parts of yourself. Most alternative treatments are based on the concept that your body can regain balance and vitality by itself. This is done by removing the stress that caused the problem in the first place, and then creating the conditions for your body to heal and restore.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Liver Cleanse</title>
-      <link>https://keratoconusguide.netlify.app/blog/liver-cleanse/</link>
+      <link>http://localhost:1313/blog/liver-cleanse/</link>
       <pubDate>Tue, 19 Feb 2019 23:05:07 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/liver-cleanse/</guid>
-      <description>Liver Cleanse I have performed liver cleanses (flushes) over the years and they have worked, i did it because of my bad habits regarding food.</description>
+      <guid>http://localhost:1313/blog/liver-cleanse/</guid>
+      <description>&lt;p&gt;I have performed &lt;em&gt;liver cleanses&lt;/em&gt; (flushes) over the years and they work. I did it because of my bad habits regarding food, but the main reason was that I learned the connection of the liver in &lt;a href=&#34;../traditional-chinese-medicine/&#34;&gt;&lt;strong&gt;&lt;em&gt;Traditional Chinese Medicine&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; to the health of the eyes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Affirmations for Health</title>
-      <link>https://keratoconusguide.netlify.app/blog/affirmations-health/</link>
+      <link>http://localhost:1313/blog/affirmations-health/</link>
       <pubDate>Mon, 09 Apr 2018 20:38:53 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/affirmations-health/</guid>
-      <description>Affirmations for Health How you lie to yourself Man is a lying organism, in fact, the evolution of the unconscious appears to be related to how a man lies to himself to get benefits for this deceiving.</description>
+      <guid>http://localhost:1313/blog/affirmations-health/</guid>
+      <description>&lt;p&gt;Man is a lying organism, in fact, the evolution of the unconscious appears to be related to how a man lies to himself to get benefits for this deceiving. When we are making &amp;ldquo;&lt;strong&gt;&lt;em&gt;affirmations for health&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; we are doing what everyone does but we are doing it consciously and with a goal in mind. We all lie to ourself&amp;rsquo;s and others, we exaggerate our capacity and diminish the capacity of our competition at the same time. We do this because it is important to our survival.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Healthy smoothie recipe</title>
-      <link>https://keratoconusguide.netlify.app/blog/healthy-smoothie/</link>
+      <link>http://localhost:1313/blog/healthy-smoothie/</link>
       <pubDate>Wed, 21 Jun 2017 17:30:06 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/healthy-smoothie/</guid>
-      <description>Healthy Smoothie Recipe This healthy smoothie recipe is based on Rhonda Patrick Ph.</description>
+      <guid>http://localhost:1313/blog/healthy-smoothie/</guid>
+      <description>&lt;p&gt;This healthy smoothie recipe is based on Rhonda Patrick Ph.D. smoothie and contains all the basic antioxidants and phytonutrients needed in your diet.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Grounding techniques</title>
-      <link>https://keratoconusguide.netlify.app/blog/grounding-techniques/</link>
+      <link>http://localhost:1313/blog/grounding-techniques/</link>
       <pubDate>Tue, 16 Feb 2016 16:37:04 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/grounding-techniques/</guid>
-      <description>Grounding techniques If you have walked on a beach or barefoot on grass you know how refreshing these activities are.</description>
+      <guid>http://localhost:1313/blog/grounding-techniques/</guid>
+      <description>&lt;p&gt;If you have walked on a beach or barefoot on grass you know how refreshing these activities are. The grounding techniques discussed here put your body closer to nature; this is the way it is supposed to be. Before the invention of clothing, the indigenous people like to run without shoes and had no problem with this. We are part of nature so by distancing from it we are affecting our body&amp;rsquo;s normal responses.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Chinese herbal formulas</title>
-      <link>https://keratoconusguide.netlify.app/blog/chinese-herbal-formulas/</link>
-      <pubDate>Fri, 08 Jan 2016 05:47:54 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/chinese-herbal-formulas/</guid>
-      <description>Chinese herbal formulas Chinese herbal medicine is the biggest branch of traditional Chinese medicine (TCM).</description>
-    </item>
-    
     <item>
       <title>Hyperbaric Oxygen Therapy</title>
-      <link>https://keratoconusguide.netlify.app/blog/hyperbaric-oxygen-therapy/</link>
+      <link>http://localhost:1313/blog/hyperbaric-oxygen-therapy/</link>
       <pubDate>Thu, 30 Apr 2015 18:38:15 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/hyperbaric-oxygen-therapy/</guid>
-      <description>Hyperbaric Oxygen therapy Hyperbaric oxygen therapy is the use of oxygen in a controlled high-pressure chamber, this is commonly used when divers have to get out fast of deep waters and experience problems; the blood in their bodies start to produce nitrogen bubbles much like a soda can that is opened after shaken, this can be dangerous.</description>
+      <guid>http://localhost:1313/blog/hyperbaric-oxygen-therapy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hyperbaric oxygen therapy&lt;/strong&gt; is the use of oxygen in a controlled high-pressure chamber, this is commonly used when divers have to get out fast of deep waters and experience problems; the blood in their bodies start to produce nitrogen bubbles much like a soda can that is opened after shaken, this can be dangerous.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

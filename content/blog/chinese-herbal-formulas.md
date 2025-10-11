@@ -11,17 +11,14 @@ description: "Chinese herbal formulas are the biggest tradition in Chinese medic
 
 # taxonomies
 categories: 
-  - "therapy"
+  - "treatment"
 tags:
   - "Blog"
-  - "treatment"
+  - "therapy"
 
 # post type
 type: "blog"
 ---
-Chinese herbal formulas
------------------------
-
 Chinese herbal medicine is the biggest branch of traditional Chinese medicine (TCM). The origin of **Chinese Herbal Formulas** is found in the high mountains of China where every plant, animal, and mineral was tested as medicine in the search for the fountain of youth.
 
 While they didn't find that, they discovered that herbs possessed properties that were useful in the treatment of many afflictions and diseases. These Chinese herbal formulas are selected by a concept called the principle of _Ying/Yang_, and by the body of knowledge called **_the five energies_**.
@@ -65,6 +62,6 @@ leave a comment below, like, or subscribe to my newsletter.
 
 Good luck!
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *

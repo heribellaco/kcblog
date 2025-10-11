@@ -1,6 +1,6 @@
 ---
 title: "Causes of keratoconus"
-date: 2019-10-3T00:31:58+00:00
+date: 2019-10-03T18:55:58+00:00
 draft: false
 
 # post thumb
@@ -14,13 +14,11 @@ categories:
   - "Keratoconus"
 tags:
   - "Post"
-  - "Blog"
   - "Old"
 
 # post type
 type: "post"
 ---
-### Causes of Keratoconus
 
 First, there may be many causes of keratoconus that are not known to us. So we need to start with an open mind and learn about causes.
 
@@ -92,8 +90,6 @@ Effects of eye rubbing on the levels of protease, protease activity and cytokine
 
 * * *
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast

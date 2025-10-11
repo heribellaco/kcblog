@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>foods on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/tags/foods/</link>
-    <description>Recent content in foods on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Foods on Keratoconus</title>
+    <link>http://localhost:1313/tags/foods/</link>
+    <description>Recent content in Foods on Keratoconus</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 01:16:57 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/tags/foods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2019 01:16:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/foods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caloric Restriction in Keratoconus</title>
-      <link>https://keratoconusguide.netlify.app/blog/caloric-restriction/</link>
+      <link>http://localhost:1313/blog/caloric-restriction/</link>
       <pubDate>Thu, 28 Nov 2019 01:16:57 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/caloric-restriction/</guid>
-      <description>Caloric restriction Caloric restriction has been proved in laboratory studies as the only way of extending the lifespan of rats[1], in other words, those that eat all they want to die faster than those who have a restrictive diet.</description>
+      <guid>http://localhost:1313/blog/caloric-restriction/</guid>
+      <description>&lt;p&gt;Caloric restriction has been proved in laboratory studies as the only way of extending the lifespan of rats[1], in other words, those that eat all they want to die faster than those who have a restrictive diet. This means that eating too much food is bad for you, of course, we are not rats; but remember that digestion requires that you spend energy (enzymes) processing the food you eat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nutrient deficiency testing</title>
-      <link>https://keratoconusguide.netlify.app/blog/nutrient-deficiency-testing/</link>
+      <link>http://localhost:1313/blog/nutrient-deficiency-testing/</link>
       <pubDate>Thu, 28 Jun 2018 20:52:14 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/nutrient-deficiency-testing/</guid>
-      <description>Test for Nutrient Deficiencies How do you know if you have a nutrient deficiency?</description>
+      <guid>http://localhost:1313/blog/nutrient-deficiency-testing/</guid>
+      <description>&lt;p&gt;How do you know if you have a nutrient deficiency? What was first the egg or the chicken? If you don’t know how can you have a well-targeted supplementation plan? Taking pills blindly is like shooting in the dark.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nutrients definition</title>
-      <link>https://keratoconusguide.netlify.app/blog/nutrients-definition/</link>
+      <link>http://localhost:1313/blog/nutrients-definition/</link>
       <pubDate>Fri, 07 Jul 2017 16:25:12 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/nutrients-definition/</guid>
-      <description>Macronutrients The basic nutrients definition is comprised of protein, carbohydrate, and fats (called macronutrients).</description>
+      <guid>http://localhost:1313/blog/nutrients-definition/</guid>
+      <description>&lt;p&gt;The basic nutrients definition is comprised of &lt;strong&gt;&lt;em&gt;protein&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;carbohydrate&lt;/em&gt;&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;fats&lt;/em&gt;&lt;/strong&gt; (called macronutrients). They represent all that we eat. Most foods have nutrients in different proportions. For example, a banana has mostly carbohydrates and very little protein and fiber, a steak has mostly protein and fat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Healthy smoothie recipe</title>
-      <link>https://keratoconusguide.netlify.app/blog/healthy-smoothie/</link>
+      <link>http://localhost:1313/blog/healthy-smoothie/</link>
       <pubDate>Wed, 21 Jun 2017 17:30:06 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/healthy-smoothie/</guid>
-      <description>Healthy Smoothie Recipe This healthy smoothie recipe is based on Rhonda Patrick Ph.</description>
+      <guid>http://localhost:1313/blog/healthy-smoothie/</guid>
+      <description>&lt;p&gt;This healthy smoothie recipe is based on Rhonda Patrick Ph.D. smoothie and contains all the basic antioxidants and phytonutrients needed in your diet.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to fast 4 days</title>
-      <link>https://keratoconusguide.netlify.app/blog/how-to-fast/</link>
+      <link>http://localhost:1313/blog/how-to-fast/</link>
       <pubDate>Sun, 18 Dec 2016 02:38:52 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/how-to-fast/</guid>
-      <description>Fasting is probably the best way to regain your health and to improve your blood chemistry.</description>
+      <guid>http://localhost:1313/blog/how-to-fast/</guid>
+      <description>&lt;p&gt;Fasting is probably the best way to regain your health and to improve your blood chemistry. Today blood testing allows us to know how to fast and the beneficial aspects of fasting. It is an ancient tradition in many cultures and has well-known benefits.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vitamin and Mineral Supplements</title>
-      <link>https://keratoconusguide.netlify.app/blog/vitamin-and-mineral-supplements/</link>
+      <link>http://localhost:1313/blog/vitamin-and-mineral-supplements/</link>
       <pubDate>Wed, 27 Jan 2016 22:28:58 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/vitamin-and-mineral-supplements/</guid>
-      <description>Vitamin and mineral supplements This is a theme that is certainly obscure, should you take vitamin and mineral supplements just to avoid a problem later?</description>
+      <guid>http://localhost:1313/blog/vitamin-and-mineral-supplements/</guid>
+      <description>&lt;p&gt;This is a theme that is certainly obscure, should you take vitamin and mineral supplements just to avoid a problem later? Should you trust that the companies that sell these products are honest and sincere? Or are they just trying to make a sell?   &lt;em&gt;I love to buy things that I believe are good for my health or that I need&lt;/em&gt;, however, most of the time you don&amp;rsquo;t need any of this.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

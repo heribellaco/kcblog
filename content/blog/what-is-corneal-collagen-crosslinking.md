@@ -13,15 +13,11 @@ description: "Corneal collagen crosslinking is a photochemical procedure to make
 categories: 
   - "Treatment"
 tags:
-  - "post"
-  - "new"
-  - "keratoconus"
+  - "blog"
 
 # post type
 type: "blog"
 ---
-Corneal Collagen Cross-Linking
-------------------------------
 
 [_Corneal collagen crosslinking_](https://en.wikipedia.org/wiki/Corneal_collagen_cross-linking) is a photo-chemical procedure to make your cornea stiffer by bonding the collagen fibers with riboflavin and ultraviolet light, suggested by Switzerland professor Theo Seiler, MD.
 
@@ -70,3 +66,5 @@ _1 Fasting and Eating for Health,_ Joel Fuhrman, MD. p65.
 * * *
 
 #### Join email list! and Get information fast...
+
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)

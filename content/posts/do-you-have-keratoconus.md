@@ -20,8 +20,6 @@ tags:
 # post type
 type: "post"
 ---
-Do you have keratoconus?
-------------------------
 
 The first time you realize you have visual problems is at school, you just can't see clearly from behind the classroom, so you have to sit closer to the blackboard. When you went to the movies, you could not read the subtitles.
 
@@ -33,7 +31,7 @@ Beto R.
 
 * * *
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on social media.
 
 * * *
 

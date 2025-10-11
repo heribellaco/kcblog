@@ -19,8 +19,6 @@ tags:
 # post type
 type: "blog"
 ---
-Test for Nutrient Deficiencies
-------------------------------
 
 How do you know if you have a nutrient deficiency? What was first the egg or the chicken? If you don’t know how can you have a well-targeted supplementation plan? Taking pills blindly is like shooting in the dark.
 
@@ -47,6 +45,8 @@ A sad boring life really.
 Good luck.
 
 * * *
+
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 #### Join email list! and Get information fast...
 

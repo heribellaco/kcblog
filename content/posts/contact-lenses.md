@@ -20,8 +20,6 @@ tags:
 # post type
 type: "post"
 ---
-Contact lenses for keratoconus
-------------------------------
 
 There are "basically" three types of lenses, corneal lenses like the Rose K lenses; scleral lenses like the Digiform K lens, and Hybrid lenses like the Synergeyes lens.
 

@@ -1,5 +1,5 @@
 ---
-title: "ebook formats and readers"
+title: "Ebook formats and readers"
 date: 2016-03-23T01:55:56+00:00
 draft: false
 
@@ -19,8 +19,6 @@ tags:
 # post type
 type: "blog"
 ---
-eBook formats
--------------
 
 So you have an archive ending in _pdf, Mobi, epub_ or other? Google...how to open pdf files, and you will get lots of advice.
 
@@ -86,8 +84,6 @@ Alternatively, you can visit the book download page on our website in your iPad 
 
 That's it happy reading...
 
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
+
 * * *
-
-#### Join the email list! and Get information fast...
-
-We won't send you spam. Unsubscribe at any time.

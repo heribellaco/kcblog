@@ -19,8 +19,6 @@ tags:
 # post type
 type: "post"
 ---
-
-Covid eye care
 --------------
 
 In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China. Certainly, we that handles contact lens are accustomed to cleaning and washing our hands very thoroughly to avoid coronavirus eye symptoms.

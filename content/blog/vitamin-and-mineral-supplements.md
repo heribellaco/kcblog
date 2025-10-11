@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Vitamin and mineral supplements
--------------------------------
 
 This is a theme that is certainly obscure, should you take vitamin and mineral supplements just to avoid a problem later? Should you trust that the companies that sell these products are honest and sincere? Or are they just trying to make a sell?   _I love to buy things that I believe are good for my health or that I need_, however, most of the time you don't need any of this.
 
@@ -57,8 +55,7 @@ What do you think? subscribe, or leave a comment below.
 
 Good Luck!
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
-
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 * * *
 
 #### Join the email list! and Get information fast...

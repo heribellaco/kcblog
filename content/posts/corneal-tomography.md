@@ -14,13 +14,11 @@ categories:
   - "diagnosis"
 tags:
   - "Tomography"
-  - "Blog"
+  - "post"
 
 # post type
 type: "post"
 ---
-Corneal tomography
-------------------
 
 Tomography derives from the Greek words _tomos_ (to cut) and _graphein_ (to write). The term **topography** is related to the study of the earth's surface but is wrongly used in ophthalmology imaging. Who has not seen these corneal tomography images that your doctor used to diagnose your keratoconus? I have always wanted to understand more about these maps of the cornea but was clueless about their meaning.
 
@@ -105,10 +103,6 @@ Heriberto R.
 
 * * *
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
-
-
-
-#### Join the email list! and Get information fast...

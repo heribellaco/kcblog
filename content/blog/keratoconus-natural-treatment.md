@@ -11,15 +11,14 @@ description: "Keratoconus natural crosslinking treatment, by consuming vitamin B
 
 # taxonomies
 categories: 
-  - "treatment"
+  - "therapy"
 tags:
   - "post"
-  - "therapy"
+  - "treatment"
 
 # post type
 type: "featured"
 ---
-
 Have you heard about keratoconus cross-linking? What if we carry out a Keratoconus natural treatment by consuming riboflavin (vitamin B-2) orally and getting exposure to infrared sunlight by going outdoors? If you are recently diagnosed this could help.
 
 Usually, it takes about a year to determine if your keratoconus is getting worse. Your doctor will assess changes in values from tests such as the Sim'k values or a reduction in cornea thickness by comparing your recent test results with previous ones. Of course, this assessment depends on various factors, so feel free to ask questions and carefully consider your choices. If you've been recently diagnosed, your doctor will likely recommend cross-linking to you.
@@ -64,10 +63,9 @@ Also read the post: [_What is corneal collagen crosslinking_](../what-is-corneal
 
 Are you willing to give it a try?
 
-let me know what you think! _**subscribe**_, or leave a **_comment_** below.
+let me know what you think!
 
 Good Luck!
 
-Hi, I love to improve. Reach me on social or @ heribertorangel.com
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
-#### Join newsletter... and get info fast

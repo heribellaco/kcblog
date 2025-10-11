@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keratoconus on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/tags/keratoconus/</link>
-    <description>Recent content in keratoconus on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Keratoconus</title>
+    <link>http://localhost:1313/tags/keratoconus/</link>
+    <description>Recent content on Keratoconus</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 16:50:58 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/tags/keratoconus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2020 16:50:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/keratoconus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scleral lenses a final solution for keratoconus?</title>
-      <link>https://keratoconusguide.netlify.app/blog/scleral-lenses/</link>
+      <link>http://localhost:1313/blog/scleral-lenses/</link>
       <pubDate>Wed, 08 Jan 2020 16:50:58 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/scleral-lenses/</guid>
-      <description>Scleral Lenses The keratoconus advanced patient has a great option called Scleral lenses; they help people that have become intolerant to other corneal lenses.</description>
+      <guid>http://localhost:1313/blog/scleral-lenses/</guid>
+      <description>&lt;p&gt;The keratoconus &lt;em&gt;advanced&lt;/em&gt; patient has a great option called &lt;em&gt;Scleral lenses&lt;/em&gt;; they help people that have become intolerant to other corneal lenses. New designs and materials make these lenses better every day  and with proper management, you can adapt to them quickly. If you try them, Scleral lenses are probably the last option for us with advanced &lt;em&gt;keratoconus,&lt;/em&gt; before the use of other more drastic measures.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What is Corneal Collagen Crosslinking?</title>
-      <link>https://keratoconusguide.netlify.app/blog/what-is-corneal-collagen-crosslinking/</link>
+      <link>http://localhost:1313/blog/what-is-corneal-collagen-crosslinking/</link>
       <pubDate>Wed, 03 Apr 2019 20:08:49 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/what-is-corneal-collagen-crosslinking/</guid>
-      <description>Corneal Collagen Cross-Linking Corneal collagen crosslinking is a photo-chemical procedure to make your cornea stiffer by bonding the collagen fibers with riboflavin and ultraviolet light, suggested by Switzerland professor Theo Seiler, MD.</description>
+      <guid>http://localhost:1313/blog/what-is-corneal-collagen-crosslinking/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Corneal_collagen_cross-linking&#34;&gt;&lt;em&gt;Corneal collagen crosslinking&lt;/em&gt;&lt;/a&gt; is a photo-chemical procedure to make your cornea stiffer by bonding the collagen fibers with riboflavin and ultraviolet light, suggested by Switzerland professor Theo Seiler, MD.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Do you have keratoconus?</title>
-      <link>https://keratoconusguide.netlify.app/posts/do-you-have-keratoconus/</link>
+      <link>http://localhost:1313/posts/do-you-have-keratoconus/</link>
       <pubDate>Wed, 03 Apr 2013 00:17:08 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/do-you-have-keratoconus/</guid>
-      <description>Do you have keratoconus? The first time you realize you have visual problems is at school, you just can&amp;rsquo;t see clearly from behind the classroom, so you have to sit closer to the blackboard.</description>
+      <guid>http://localhost:1313/posts/do-you-have-keratoconus/</guid>
+      <description>&lt;p&gt;The first time you realize you have visual problems is at school, you just can&amp;rsquo;t see clearly from behind the classroom, so you have to sit closer to the blackboard. When you went to the movies, you could not read the subtitles.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

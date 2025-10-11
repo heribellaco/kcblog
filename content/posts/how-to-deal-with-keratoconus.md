@@ -20,8 +20,6 @@ tags:
 # post type
 type: "post"
 ---
-Do you have Keratoconus?
-------------------------
 
 Having keratoconus is hard, you don’t know what to do and nobody tells you what to expect. You cannot do much about it and if you could it would cost a lot of money.
 

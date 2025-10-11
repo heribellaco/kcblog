@@ -19,9 +19,6 @@ tags:
 # post type
 type: "featured"
 ---
-What is keratoconus?
---------------------
-
 Keratoconus is basically a conical cornea. The cornea is a lens that focuses the light from our environment into the retina in the back of your eyes. If your cornea shape is altered, this will cause patterns of astigmatism and myopia hard to correct with glasses.
 
 ### How is keratoconus treated?
@@ -76,5 +73,3 @@ Heriberto R.
 Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://heribertorangel.com)
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast

@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomography on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/tags/tomography/</link>
+    <link>http://localhost:1313/tags/tomography/</link>
     <description>Recent content in Tomography on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2015 20:18:27 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/tags/tomography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2015 20:18:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tomography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Corneal tomography interpretation</title>
-      <link>https://keratoconusguide.netlify.app/posts/corneal-tomography/</link>
+      <link>http://localhost:1313/posts/corneal-tomography/</link>
       <pubDate>Sat, 26 Dec 2015 20:18:27 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/corneal-tomography/</guid>
-      <description>Corneal tomography Tomography derives from the Greek words tomos (to cut) and graphein (to write).</description>
+      <guid>http://localhost:1313/posts/corneal-tomography/</guid>
+      <description>&lt;p&gt;Tomography derives from the Greek words &lt;em&gt;tomos&lt;/em&gt; (to cut) and &lt;em&gt;graphein&lt;/em&gt; (to write). The term &lt;strong&gt;topography&lt;/strong&gt; is related to the study of the earth&amp;rsquo;s surface but is wrongly used in ophthalmology imaging. Who has not seen these corneal tomography images that your doctor used to diagnose your keratoconus? I have always wanted to understand more about these maps of the cornea but was clueless about their meaning.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

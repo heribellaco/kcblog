@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Grounding techniques
---------------------
 
 If you have walked on a beach or barefoot on grass you know how refreshing these activities are. The grounding techniques discussed here put your body closer to nature; this is the way it is supposed to be. Before the invention of clothing, the indigenous people like to run without shoes and had no problem with this. We are part of nature so by distancing from it we are affecting our body's normal responses.
 
@@ -71,7 +69,8 @@ Leave a comment, or subscribe for more health advice.
 
 Good Luck!
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
+
 
 * * *
 

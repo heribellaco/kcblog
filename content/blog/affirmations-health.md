@@ -19,10 +19,6 @@ tags:
 # post type
 type: "blog"
 ---
-Affirmations for Health
------------------------
-
-### How you lie to yourself
 
 Man is a lying organism, in fact, the evolution of the unconscious appears to be related to how a man lies to himself to get benefits for this deceiving. When we are making "**_affirmations for health_**" we are doing what everyone does but we are doing it consciously and with a goal in mind. We all lie to ourself's and others, we exaggerate our capacity and diminish the capacity of our competition at the same time. We do this because it is important to our survival.
 
@@ -58,6 +54,8 @@ If you want to have more impact you can repeat the affirmation to yourself, then
 >So think about what you want to see in your world and write some affirmations, make reading them a habit, just for five minutes in the morning or when you can do them.
 
 * * *
+
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 #### Join email list! and Get information fast...
 

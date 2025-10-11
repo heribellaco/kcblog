@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Macronutrients
---------------
 
 The basic nutrients definition is comprised of **_protein_**, **_carbohydrate_**, and **_fats_** (called macronutrients). They represent all that we eat. Most foods have nutrients in different proportions. For example, a banana has mostly carbohydrates and very little protein and fiber, a steak has mostly protein and fat.
 
@@ -49,7 +47,7 @@ Read my post on: [**_Vitamin & mineral supplements_**](../vitamin-and-mineral-su
 
 >In short, you have a full arsenal of nutrients in all the vegetables and fruit that you consume and it is just a case of having a varied diet and not abusing any group too much.
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
 

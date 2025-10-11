@@ -12,16 +12,14 @@ description: "Scleral Lenses can help patients that certainly have become intole
 # taxonomies
 categories: 
   - "Contact Lenses"
+  - "Treatment"
 tags:
   - "blog"
   - "keratoconus"
-  - "therapy"
 
 # post type
 type: "blog"
 ---
-Scleral Lenses
---------------
 
 The keratoconus _advanced_ patient has a great option called *Scleral lenses*; they help people that have become intolerant to other corneal lenses. New designs and materials make these lenses better every day  and with proper management, you can adapt to them quickly. If you try them, Scleral lenses are probably the last option for us with advanced _keratoconus,_ before the use of other more drastic measures.
 
@@ -49,8 +47,6 @@ _Leave a comment or subscribe to newsletter._
 
 Good luck!
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](http://heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast

@@ -19,8 +19,6 @@ tags:
 # post type
 type: "post"
 ---
-keratoconus Diagnosis
----------------------
 
 **What to do and where to look for help.  
 **basic concepts**:**

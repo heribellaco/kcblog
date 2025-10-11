@@ -24,10 +24,6 @@ type: "post"
 ---
 ---
 
-## _Alternative Ways to Treat and Manage Keratoconus and Visual Problems._
-
-Are you dealing with keratoconus?
-
 You're not alone - keratoconus can limit your vision and make it difficult to do things like driving and read, and it sucks.
 
 But what to do?

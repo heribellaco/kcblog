@@ -19,8 +19,6 @@ tags:
 # post type
 type: "post"
 ---
-About Keratoconus
------------------
 
 When you say you have keratoconus people just look _amazed_ at you because they don't have an idea what are you talking about.
 

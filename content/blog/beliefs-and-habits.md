@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Beliefs and Habits
-------------------
 
 Your beliefs and habits affect everything in your life. From what you do, to how you choose what you buy. \*Beliefs are filters that tell you what to look for, and it is important to have the correct beliefs so they support you in your quest for what you want.
 
@@ -51,7 +49,10 @@ Bad vision habits are difficult to stop because they are largely unconscious, ac
 
 Good Luck.
 
+
 Heriberto R.
+
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
 

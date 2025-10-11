@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Hyperbaric Oxygen therapy
--------------------------
 
 **Hyperbaric oxygen therapy** is the use of oxygen in a controlled high-pressure chamber, this is commonly used when divers have to get out fast of deep waters and experience problems; the blood in their bodies start to produce nitrogen bubbles much like a soda can that is opened after shaken, this can be dangerous.
 
@@ -65,13 +63,9 @@ My idea was to make some mental gymnastics while in the chamber, what I noticed 
 
 Hi, I love to improve myself and others.
 
-Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 Good Luck!
 
 Heriberto R.
-
-
-
-#### Join #HealthyEyes news... and Get info fast
 * * *

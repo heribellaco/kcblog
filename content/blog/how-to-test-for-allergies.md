@@ -19,8 +19,6 @@ tags:
 # post type
 type: "blog"
 ---
-Testing for allergies
----------------------
 
 This is interesting but controversial. If you suffer from a "**_chronic degenerative condition_**" like _keratoconus_ or any other, it is probably intelligent to test for allergies. To be honest: "_**I have not used these services and have no connection to the companies that I will mention**_".
 
@@ -56,7 +54,8 @@ What do you think? _**Comment**_, or _**subscribe**_ below.
 
 Good Luck!
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
+
 
 * * *
 

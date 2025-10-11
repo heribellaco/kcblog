@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/tags/new/</link>
+    <link>http://localhost:1313/tags/new/</link>
     <description>Recent content in New on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2019 20:08:49 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2019 20:08:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Corneal Collagen Crosslinking?</title>
-      <link>https://keratoconusguide.netlify.app/blog/what-is-corneal-collagen-crosslinking/</link>
+      <link>http://localhost:1313/blog/what-is-corneal-collagen-crosslinking/</link>
       <pubDate>Wed, 03 Apr 2019 20:08:49 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/what-is-corneal-collagen-crosslinking/</guid>
-      <description>Corneal Collagen Cross-Linking Corneal collagen crosslinking is a photo-chemical procedure to make your cornea stiffer by bonding the collagen fibers with riboflavin and ultraviolet light, suggested by Switzerland professor Theo Seiler, MD.</description>
+      <guid>http://localhost:1313/blog/what-is-corneal-collagen-crosslinking/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Corneal_collagen_cross-linking&#34;&gt;&lt;em&gt;Corneal collagen crosslinking&lt;/em&gt;&lt;/a&gt; is a photo-chemical procedure to make your cornea stiffer by bonding the collagen fibers with riboflavin and ultraviolet light, suggested by Switzerland professor Theo Seiler, MD.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nutrients definition</title>
-      <link>https://keratoconusguide.netlify.app/blog/nutrients-definition/</link>
+      <link>http://localhost:1313/blog/nutrients-definition/</link>
       <pubDate>Fri, 07 Jul 2017 16:25:12 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/nutrients-definition/</guid>
-      <description>Macronutrients The basic nutrients definition is comprised of protein, carbohydrate, and fats (called macronutrients).</description>
+      <guid>http://localhost:1313/blog/nutrients-definition/</guid>
+      <description>&lt;p&gt;The basic nutrients definition is comprised of &lt;strong&gt;&lt;em&gt;protein&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;carbohydrate&lt;/em&gt;&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;fats&lt;/em&gt;&lt;/strong&gt; (called macronutrients). They represent all that we eat. Most foods have nutrients in different proportions. For example, a banana has mostly carbohydrates and very little protein and fiber, a steak has mostly protein and fat.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

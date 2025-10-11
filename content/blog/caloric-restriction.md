@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Caloric restriction
--------------------
 
 Caloric restriction has been proved in laboratory studies as the only way of extending the lifespan of rats\[1\], in other words, those that eat all they want to die faster than those who have a restrictive diet. This means that eating too much food is bad for you, of course, we are not rats; but remember that digestion requires that you spend energy (enzymes) processing the food you eat.
 
@@ -79,7 +77,7 @@ What do you think? Comment, or subscribe to the newsletter below.
 
 Good Luck!
 
-Hi, I love to improve myself and others. Reach me on [heribertorangel.com](http://heribertorangel.com)  
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com) 
 
 * * *
 

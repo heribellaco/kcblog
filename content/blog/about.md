@@ -19,9 +19,7 @@ tags:
 # post type
 type: "blog"
 ---
->Hi, I love to improve myself and others. Reach me on social media or at
-
-[heribertorangel.com](http://heribertorangel.com)
+>Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 ### About Keratoconus...Hi There!
 

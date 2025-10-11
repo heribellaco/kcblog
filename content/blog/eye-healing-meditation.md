@@ -1,5 +1,5 @@
 ---
-title: "eye healing meditation"
+title: "Eye healing meditation"
 date: 2019-09-16T18:11:54+00:00
 draft: false
 
@@ -64,5 +64,7 @@ This audio piece uses these sounds from freesound:
 Waves.wav by juskiddink | License: Attribution.
 
 #### Join #HealthyEyes news... and Get info fast
+
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *

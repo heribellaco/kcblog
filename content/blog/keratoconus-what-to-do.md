@@ -70,8 +70,6 @@ Good Luck!
 
 Heriberto R.
 
-Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com) or at [heribertorangel.com](http://heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast

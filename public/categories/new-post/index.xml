@@ -2,73 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Post on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/categories/new-post/</link>
+    <link>http://localhost:1313/categories/new-post/</link>
     <description>Recent content in New Post on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2023 16:00:31 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/categories/new-post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 16:00:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/new-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Midday Fogging with Scleral Lenses</title>
-      <link>https://keratoconusguide.netlify.app/posts/fogging/</link>
+      <link>http://localhost:1313/posts/fogging/</link>
       <pubDate>Sat, 16 Sep 2023 16:00:31 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/fogging/</guid>
-      <description>Scleral lenses have revolutionized the world of vision correction, offering comfort and clarity to individuals with a variety of eye conditions.</description>
+      <guid>http://localhost:1313/posts/fogging/</guid>
+      <description>&lt;p&gt;Scleral lenses have revolutionized the world of vision correction, offering comfort and clarity to individuals with a variety of eye conditions. However, one common issue that wearers often encounter is midday fogging. In this article, we will delve into the reasons behind midday fogging with scleral lenses and explore effective solutions to ensure your visual comfort throughout the day.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Holistic Approach to Keratoconus Treatment</title>
-      <link>https://keratoconusguide.netlify.app/posts/holistic-approach-to-keratoconus/</link>
+      <link>http://localhost:1313/posts/holistic-approach-to-keratoconus/</link>
       <pubDate>Sun, 09 Apr 2023 16:00:31 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/holistic-approach-to-keratoconus/</guid>
-      <description>Alternative Ways to Treat and Manage Keratoconus and Visual Problems.</description>
+      <guid>http://localhost:1313/posts/holistic-approach-to-keratoconus/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;You&amp;rsquo;re not alone - keratoconus can limit your vision and make it difficult to do things like driving and read, and it sucks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Five Surprising Things That Can Trigger Keratoconus</title>
-      <link>https://keratoconusguide.netlify.app/posts/five_surprising_things/</link>
+      <link>http://localhost:1313/posts/five_surprising_things/</link>
       <pubDate>Mon, 02 Jan 2023 20:30:35 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/five_surprising_things/</guid>
-      <description>Article about conditions that can cause keratoconus. Introduction If you have keratoconus, it&#39;s important to learn what factors can trigger the condition.</description>
+      <guid>http://localhost:1313/posts/five_surprising_things/</guid>
+      <description>&lt;p&gt;If you have keratoconus, it&#39;s important to learn what factors can&#xA;trigger the condition. These triggers can be anything from allergies to&#xA;rubbing your eyes too much. In this blog post, we&#39;ll discuss five&#xA;surprising things that can cause keratoconus, how they affect your&#xA;vision and how to avoid them if you&#39;re at risk of developing the&#xA;condition yourself.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Is rubbing the eyes the cause of Keratoconus?</title>
-      <link>https://keratoconusguide.netlify.app/blog/is-rubbing-the-cause-of-keratoconus/</link>
+      <link>http://localhost:1313/blog/is-rubbing-the-cause-of-keratoconus/</link>
       <pubDate>Wed, 12 Jan 2022 18:38:27 -0600</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/is-rubbing-the-cause-of-keratoconus/</guid>
-      <description>What is Keratoconus? Keratoconus is an eye disease that cause distorted vision.</description>
+      <guid>http://localhost:1313/blog/is-rubbing-the-cause-of-keratoconus/</guid>
+      <description>&lt;p&gt;Keratoconus is a corneal condition that affects vision. It&amp;rsquo;s hard to diagnose, starts in the adolescence, and is suposed to worsen with time. The basic treatment is &amp;ldquo;contact lenses&amp;rdquo; for keratoconus, but other options are available like “crosslinking” to strengthen the cornea, intracorneal rings to give more structure to it, and of course a corneal transplant. Glasses or normal contact lenses don’t correct the vision satisfactorily, so activities like reading and driving become impossible. Advanced cases need specialty contact lenses like Scleral lenses.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Innovations in Keratoconus Treatment</title>
-      <link>https://keratoconusguide.netlify.app/posts/innovations-in-keratoconus-treatment/</link>
+      <link>http://localhost:1313/posts/innovations-in-keratoconus-treatment/</link>
       <pubDate>Mon, 14 Jun 2021 17:55:24 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/innovations-in-keratoconus-treatment/</guid>
-      <description>Keratoconus is characterized by corneal thinning that results in distortion and loss of vision.</description>
+      <guid>http://localhost:1313/posts/innovations-in-keratoconus-treatment/</guid>
+      <description>&lt;p&gt;Keratoconus is characterized by corneal thinning that results in distortion and loss of vision.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coronavirus eye symptoms</title>
-      <link>https://keratoconusguide.netlify.app/posts/coronavirus_eye_symptoms/</link>
+      <link>http://localhost:1313/posts/coronavirus_eye_symptoms/</link>
       <pubDate>Sat, 09 Jan 2021 16:00:31 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/coronavirus_eye_symptoms/</guid>
-      <description>Covid eye care In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.</description>
+      <guid>http://localhost:1313/posts/coronavirus_eye_symptoms/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China. Certainly, we that handles contact lens are accustomed to cleaning and washing our hands very thoroughly to avoid coronavirus eye symptoms.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>ebook formats and readers</title>
-      <link>https://keratoconusguide.netlify.app/blog/ebook-formats/</link>
+      <title>Ebook formats and readers</title>
+      <link>http://localhost:1313/blog/ebook-formats/</link>
       <pubDate>Wed, 23 Mar 2016 01:55:56 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/ebook-formats/</guid>
-      <description>eBook formats So you have an archive ending in pdf, Mobi, epub or other?</description>
+      <guid>http://localhost:1313/blog/ebook-formats/</guid>
+      <description>&lt;p&gt;So you have an archive ending in &lt;em&gt;pdf, Mobi, epub&lt;/em&gt; or other? Google&amp;hellip;how to open pdf files, and you will get lots of advice.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

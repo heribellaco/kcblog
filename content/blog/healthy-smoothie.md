@@ -19,8 +19,6 @@ tags:
 # post type
 type: "blog"
 ---
-Healthy Smoothie Recipe
------------------------
 
 This healthy smoothie recipe is based on Rhonda Patrick Ph.D. smoothie and contains all the basic antioxidants and phytonutrients needed in your diet.
 
@@ -55,6 +53,8 @@ If you have a sweet tooth you can add little molasses, _[stevia](https://en.wiki
 **Enjoy**.
 
 >PS. Finally, depending on your blender vase size, experiment with the portions of vegetables, the green ones take less space and the blueberries are so small that disappear in the mix.
+
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
 

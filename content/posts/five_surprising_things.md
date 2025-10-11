@@ -24,13 +24,7 @@ tags:
 
 # post type
 type: "post"
----
-
-# Article about conditions that can cause keratoconus.
-
-# 
-
-## Introduction
+--- 
 
 If you have keratoconus, it\'s important to learn what factors can
 trigger the condition. These triggers can be anything from allergies to

@@ -20,9 +20,6 @@ tags:
 # post type
 type: "featured"
 ---
-Keratoconus overview
---------------------
-
 Keratoconus from Greek: _kerato_ (horn, cornea), and _konos_ cone. Is a condition of the cornea; the cornea is a lens whose primary function is to focus the light rays from our environment the retina in the back of our eye. In the retina, there are receptors called _rods_ and _cones_ that send information about light and color through the optical nerve to the brain.
 
 In the brain, this information is processed and an image is formed, so in reality, we see with our eyes and with our brain. Rods handle the peripheral vision, the vision in low light conditions and cones handle mostly color and detail.
@@ -74,5 +71,3 @@ _**Globus** **cone**_. - _keratoglobus_, more than 6mm and hard to fit.
 Good Luck.
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast

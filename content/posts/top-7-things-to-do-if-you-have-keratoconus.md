@@ -1,6 +1,6 @@
 ---
-title: "Top 7 things to do if you have Keratoconus"
-date: 2019-07-9T18:51:38+00:00
+title: "7 things to do if you have Keratoconus"
+date: 2019-11-03T18:55:58+00:00
 draft: false
 
 # post thumb
@@ -20,8 +20,6 @@ tags:
 # post type
 type: "post"
 ---
-Keratoconus what to do?
------------------------
 
 Your main objective must be to have an adequate vision for your life needs (study, job, fun).
 
@@ -57,14 +55,11 @@ Check your posture and the height of your chair and your monitor screen, some mi
 
 7.- Take long walks and _**look in the distance**_, looking afar is relaxing, all day looking close to objects or a monitor is harmful to your eyes.
 
-This is just the beginning you can do much more, get my health guide for people with keratoconus on my website:
-
-[www.keratoconusguide.com](https://www.keratoconusguide.com)
+This is just the beginning you can do much more, get my health guide for people with keratoconus on Amazon,
 
 Good luck.
 
 Heriberto R.
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast
+Hi, I love to improve. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)

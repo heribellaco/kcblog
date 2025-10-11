@@ -2,100 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2023 16:00:31 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 16:00:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://keratoconusguide.netlify.app/tags/blog/</link>
+      <link>http://localhost:1313/tags/blog/</link>
       <pubDate>Sat, 16 Sep 2023 16:00:31 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/blog/</guid>
+      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>post</title>
-      <link>https://keratoconusguide.netlify.app/tags/post/</link>
+      <title>Post</title>
+      <link>http://localhost:1313/tags/post/</link>
       <pubDate>Sat, 16 Sep 2023 16:00:31 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/post/</guid>
+      <guid>http://localhost:1313/tags/post/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Therapy</title>
-      <link>https://keratoconusguide.netlify.app/tags/therapy/</link>
+      <link>http://localhost:1313/tags/therapy/</link>
       <pubDate>Mon, 14 Jun 2021 17:55:24 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/therapy/</guid>
+      <guid>http://localhost:1313/tags/therapy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Old</title>
-      <link>https://keratoconusguide.netlify.app/tags/old/</link>
+      <link>http://localhost:1313/tags/old/</link>
       <pubDate>Wed, 08 Apr 2020 00:58:07 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/old/</guid>
+      <guid>http://localhost:1313/tags/old/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>keratoconus</title>
-      <link>https://keratoconusguide.netlify.app/tags/keratoconus/</link>
+      <title>Keratoconus</title>
+      <link>http://localhost:1313/tags/keratoconus/</link>
       <pubDate>Wed, 08 Jan 2020 16:50:58 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/keratoconus/</guid>
+      <guid>http://localhost:1313/tags/keratoconus/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>foods</title>
-      <link>https://keratoconusguide.netlify.app/tags/foods/</link>
+      <title>Foods</title>
+      <link>http://localhost:1313/tags/foods/</link>
       <pubDate>Thu, 28 Nov 2019 01:16:57 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/foods/</guid>
+      <guid>http://localhost:1313/tags/foods/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Contact Lenses</title>
+      <link>http://localhost:1313/tags/contact-lenses/</link>
+      <pubDate>Sun, 03 Nov 2019 18:55:58 +0000</pubDate>
+      <guid>http://localhost:1313/tags/contact-lenses/</guid>
+      <description></description>
+    </item>
     <item>
       <title>New</title>
-      <link>https://keratoconusguide.netlify.app/tags/new/</link>
+      <link>http://localhost:1313/tags/new/</link>
       <pubDate>Wed, 03 Apr 2019 20:08:49 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/new/</guid>
+      <guid>http://localhost:1313/tags/new/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>treatment</title>
-      <link>https://keratoconusguide.netlify.app/tags/treatment/</link>
+      <title>Treatment</title>
+      <link>http://localhost:1313/tags/treatment/</link>
       <pubDate>Fri, 08 Jan 2016 05:47:54 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/treatment/</guid>
+      <guid>http://localhost:1313/tags/treatment/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tomography</title>
-      <link>https://keratoconusguide.netlify.app/tags/tomography/</link>
+      <link>http://localhost:1313/tags/tomography/</link>
       <pubDate>Sat, 26 Dec 2015 20:18:27 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/tomography/</guid>
+      <guid>http://localhost:1313/tags/tomography/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>contact lenses</title>
-      <link>https://keratoconusguide.netlify.app/tags/contact-lenses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/tags/contact-lenses/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

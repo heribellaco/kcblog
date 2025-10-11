@@ -19,8 +19,7 @@ tags:
 # post type
 type: "blog"
 ---
-### What is Keratoconus?
------------
+
 Keratoconus is a corneal condition that affects vision. It's hard to diagnose, starts in the adolescence, and is suposed to worsen with time. The basic treatment is "contact lenses" for keratoconus, but other options are available like “crosslinking” to strengthen the cornea, intracorneal rings to give more structure to it, and of course a corneal transplant. Glasses or normal contact lenses don’t correct the vision satisfactorily, so activities like reading and driving become impossible. Advanced cases need specialty contact lenses like Scleral lenses.
 
 ### Why the rub?
@@ -87,14 +86,12 @@ Wikipedia contributors. (2021, December 19). Correlation does not imply causatio
 
 -----------
 
-#### Join email list! and Get information fast'...'
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 let me know what you think! like, subscribe, or leave a comment below.
 
-Hi, I love to improve. Reach me on social or at:
-
 {{< rawhtml >}}
-<a href="https://heribertorangel.com" target="_blank">heribertorangel.com</a>
+<!--<a href="https://heribertorangel.com" target="_blank">heribertorangel.com</a>-->
 {{< /rawhtml >}}
 
 -----------

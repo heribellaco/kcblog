@@ -14,18 +14,15 @@ categories:
   - "therapy"
 tags:
   - "Blog"
-  - "Post"
   - "Old"
 
 # post type
 type: "blog"
 ---
-Liver Cleanse
--------------
 
-I have performed _liver cleanses_ (flushes) over the years and they have worked, i did it because of my bad habits regarding food. But the main reason was that I learned the connection of the liver in [**_Traditional Chinese Medicine_**](../traditional-chinese-medicine/) to the health of the eyes.
+I have performed _liver cleanses_ (flushes) over the years and they work. I did it because of my bad habits regarding food, but the main reason was that I learned the connection of the liver in [**_Traditional Chinese Medicine_**](../traditional-chinese-medicine/) to the health of the eyes.
 
-The cleansing of the liver is an old practice in [_Ayurveda_](https://en.wikipedia.org/wiki/Ayurveda), basically, you purge yourself with oil so that the gallbladder expels the intra-hepatic gallstones to your intestines where they can be removed in your feces.
+The cleansing of the liver is an old practice in [_Ayurveda_](https://en.wikipedia.org/wiki/Ayurveda). Basically, you purge yourself with oil, so that the gallbladder expels the intra-hepatic gallstones to your intestines where they can be removed in your feces.
 
 I have had better results in the first three or four cleanses, the procedure I used was the following\*
 
@@ -63,7 +60,7 @@ That's it, don't go out on Sunday and stay close to the bath. This is because Ep
 
 is a kind of [laxative](https://www.healthline.com/nutrition/20-natural-laxatives).
 
-If you want get an enema to help get out the stones. but I think most of them come out by themselves.
+If you want to get an enema to get out the stones thats ok, but I think most of them come out by themselves.
 
 >If you are adventureous you can try this to see if it works. Dont be scared, purging yourself with oil is an old tradition lost in the modern world.
 
@@ -71,4 +68,5 @@ If you want get an enema to help get out the stones. but I think most of them co
 
 * * *
 
-#### Join email list! and Get information fast...
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
+

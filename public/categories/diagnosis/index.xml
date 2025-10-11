@@ -2,55 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diagnosis on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/categories/diagnosis/</link>
+    <link>http://localhost:1313/categories/diagnosis/</link>
     <description>Recent content in Diagnosis on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2018 20:52:14 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/categories/diagnosis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jun 2018 20:52:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/diagnosis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nutrient deficiency testing</title>
-      <link>https://keratoconusguide.netlify.app/blog/nutrient-deficiency-testing/</link>
+      <link>http://localhost:1313/blog/nutrient-deficiency-testing/</link>
       <pubDate>Thu, 28 Jun 2018 20:52:14 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/nutrient-deficiency-testing/</guid>
-      <description>Test for Nutrient Deficiencies How do you know if you have a nutrient deficiency?</description>
+      <guid>http://localhost:1313/blog/nutrient-deficiency-testing/</guid>
+      <description>&lt;p&gt;How do you know if you have a nutrient deficiency? What was first the egg or the chicken? If you don’t know how can you have a well-targeted supplementation plan? Taking pills blindly is like shooting in the dark.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nutrients definition</title>
-      <link>https://keratoconusguide.netlify.app/blog/nutrients-definition/</link>
+      <link>http://localhost:1313/blog/nutrients-definition/</link>
       <pubDate>Fri, 07 Jul 2017 16:25:12 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/nutrients-definition/</guid>
-      <description>Macronutrients The basic nutrients definition is comprised of protein, carbohydrate, and fats (called macronutrients).</description>
+      <guid>http://localhost:1313/blog/nutrients-definition/</guid>
+      <description>&lt;p&gt;The basic nutrients definition is comprised of &lt;strong&gt;&lt;em&gt;protein&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;carbohydrate&lt;/em&gt;&lt;/strong&gt;, and &lt;strong&gt;&lt;em&gt;fats&lt;/em&gt;&lt;/strong&gt; (called macronutrients). They represent all that we eat. Most foods have nutrients in different proportions. For example, a banana has mostly carbohydrates and very little protein and fiber, a steak has mostly protein and fat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to test for allergies</title>
-      <link>https://keratoconusguide.netlify.app/blog/how-to-test-for-allergies/</link>
+      <link>http://localhost:1313/blog/how-to-test-for-allergies/</link>
       <pubDate>Tue, 22 Mar 2016 03:38:32 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/how-to-test-for-allergies/</guid>
-      <description>Testing for allergies This is interesting but controversial. If you suffer from a &amp;ldquo;chronic degenerative condition&amp;rdquo; like keratoconus or any other, it is probably intelligent to test for allergies.</description>
+      <guid>http://localhost:1313/blog/how-to-test-for-allergies/</guid>
+      <description>&lt;p&gt;This is interesting but controversial. If you suffer from a &amp;ldquo;&lt;strong&gt;&lt;em&gt;chronic degenerative condition&lt;/em&gt;&lt;/strong&gt;&amp;rdquo; like &lt;em&gt;keratoconus&lt;/em&gt; or any other, it is probably intelligent to test for allergies. To be honest: &amp;ldquo;&lt;em&gt;&lt;strong&gt;I have not used these services and have no connection to the companies that I will mention&lt;/strong&gt;&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Corneal tomography interpretation</title>
-      <link>https://keratoconusguide.netlify.app/posts/corneal-tomography/</link>
+      <link>http://localhost:1313/posts/corneal-tomography/</link>
       <pubDate>Sat, 26 Dec 2015 20:18:27 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/corneal-tomography/</guid>
-      <description>Corneal tomography Tomography derives from the Greek words tomos (to cut) and graphein (to write).</description>
+      <guid>http://localhost:1313/posts/corneal-tomography/</guid>
+      <description>&lt;p&gt;Tomography derives from the Greek words &lt;em&gt;tomos&lt;/em&gt; (to cut) and &lt;em&gt;graphein&lt;/em&gt; (to write). The term &lt;strong&gt;topography&lt;/strong&gt; is related to the study of the earth&amp;rsquo;s surface but is wrongly used in ophthalmology imaging. Who has not seen these corneal tomography images that your doctor used to diagnose your keratoconus? I have always wanted to understand more about these maps of the cornea but was clueless about their meaning.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Do you have keratoconus?</title>
-      <link>https://keratoconusguide.netlify.app/posts/do-you-have-keratoconus/</link>
+      <link>http://localhost:1313/posts/do-you-have-keratoconus/</link>
       <pubDate>Wed, 03 Apr 2013 00:17:08 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/do-you-have-keratoconus/</guid>
-      <description>Do you have keratoconus? The first time you realize you have visual problems is at school, you just can&amp;rsquo;t see clearly from behind the classroom, so you have to sit closer to the blackboard.</description>
+      <guid>http://localhost:1313/posts/do-you-have-keratoconus/</guid>
+      <description>&lt;p&gt;The first time you realize you have visual problems is at school, you just can&amp;rsquo;t see clearly from behind the classroom, so you have to sit closer to the blackboard. When you went to the movies, you could not read the subtitles.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

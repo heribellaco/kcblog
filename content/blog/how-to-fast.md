@@ -35,8 +35,6 @@ Since each person is different you need to inform yourself and try it, **_not ev
 
 * * *
 
-### My four day fast
-
 This is the log of my last four day fast:
 
 Fasting Day 1
@@ -92,4 +90,4 @@ Beto R.
 
 * * *
 
-Join **#HealthyEyes** news... and Get info fast
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)

@@ -4,8 +4,11 @@ languageCode = "en-us"
 title = "Keratoconus"
 theme = "liva-hugo"
 summaryLength = "10"
-paginate = 8
 disqusShortname = "keratoconusguide"
+
+ignoreLogs = ['warning-goldmark-raw-html']
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

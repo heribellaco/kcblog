@@ -63,10 +63,7 @@ More info about Scleral lenses ([https://sclerallens.org/](https://sclerallens.o
 
 * * *
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
 
-Subscribe to **#HealthyEyes** Newsletter
-
-and get info fast!

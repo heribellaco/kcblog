@@ -20,8 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Traditional Chinese Medicine
-----------------------------
 
 Based on the great principle of Yin and Yang, Traditional Chinese medicine is one of the most famous health systems used in the world today. Traditional Chinese Medicine principles are simple and elegant.
 
@@ -50,7 +48,8 @@ on this ancient health system?
 Leave a comment below or subscribe to the newsletter.  
 below.
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
+
 
 * * *
 

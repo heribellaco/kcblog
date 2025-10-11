@@ -2,82 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Therapy on Keratoconus</title>
-    <link>https://keratoconusguide.netlify.app/tags/therapy/</link>
+    <link>http://localhost:1313/tags/therapy/</link>
     <description>Recent content in Therapy on Keratoconus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 17:55:24 +0000</lastBuildDate><atom:link href="https://keratoconusguide.netlify.app/tags/therapy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 17:55:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/therapy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Innovations in Keratoconus Treatment</title>
-      <link>https://keratoconusguide.netlify.app/posts/innovations-in-keratoconus-treatment/</link>
+      <link>http://localhost:1313/posts/innovations-in-keratoconus-treatment/</link>
       <pubDate>Mon, 14 Jun 2021 17:55:24 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/posts/innovations-in-keratoconus-treatment/</guid>
-      <description>Keratoconus is characterized by corneal thinning that results in distortion and loss of vision.</description>
+      <guid>http://localhost:1313/posts/innovations-in-keratoconus-treatment/</guid>
+      <description>&lt;p&gt;Keratoconus is characterized by corneal thinning that results in distortion and loss of vision.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Scleral lenses a final solution for keratoconus?</title>
-      <link>https://keratoconusguide.netlify.app/blog/scleral-lenses/</link>
-      <pubDate>Wed, 08 Jan 2020 16:50:58 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/scleral-lenses/</guid>
-      <description>Scleral Lenses The keratoconus advanced patient has a great option called Scleral lenses; they help people that have become intolerant to other corneal lenses.</description>
-    </item>
-    
-    <item>
-      <title>Keratoconus natural treatment</title>
-      <link>https://keratoconusguide.netlify.app/blog/keratoconus-natural-treatment/</link>
-      <pubDate>Mon, 16 Dec 2019 20:06:08 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/keratoconus-natural-treatment/</guid>
-      <description>Have you heard about keratoconus cross-linking? What if we carry out a Keratoconus natural treatment by consuming riboflavin (vitamin B-2) orally and getting exposure to infrared sunlight by going outdoors?</description>
-    </item>
-    
     <item>
       <title>Caloric Restriction in Keratoconus</title>
-      <link>https://keratoconusguide.netlify.app/blog/caloric-restriction/</link>
+      <link>http://localhost:1313/blog/caloric-restriction/</link>
       <pubDate>Thu, 28 Nov 2019 01:16:57 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/caloric-restriction/</guid>
-      <description>Caloric restriction Caloric restriction has been proved in laboratory studies as the only way of extending the lifespan of rats[1], in other words, those that eat all they want to die faster than those who have a restrictive diet.</description>
+      <guid>http://localhost:1313/blog/caloric-restriction/</guid>
+      <description>&lt;p&gt;Caloric restriction has been proved in laboratory studies as the only way of extending the lifespan of rats[1], in other words, those that eat all they want to die faster than those who have a restrictive diet. This means that eating too much food is bad for you, of course, we are not rats; but remember that digestion requires that you spend energy (enzymes) processing the food you eat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Traditional Chinese Medicine</title>
-      <link>https://keratoconusguide.netlify.app/blog/traditional-chinese-medicine/</link>
+      <link>http://localhost:1313/blog/traditional-chinese-medicine/</link>
       <pubDate>Tue, 30 Jul 2019 03:29:30 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/traditional-chinese-medicine/</guid>
-      <description>Traditional Chinese Medicine Based on the great principle of Yin and Yang, Traditional Chinese medicine is one of the most famous health systems used in the world today.</description>
+      <guid>http://localhost:1313/blog/traditional-chinese-medicine/</guid>
+      <description>&lt;p&gt;Based on the great principle of Yin and Yang, Traditional Chinese medicine is one of the most famous health systems used in the world today. Traditional Chinese Medicine principles are simple and elegant.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to fast 4 days</title>
-      <link>https://keratoconusguide.netlify.app/blog/how-to-fast/</link>
+      <link>http://localhost:1313/blog/how-to-fast/</link>
       <pubDate>Sun, 18 Dec 2016 02:38:52 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/how-to-fast/</guid>
-      <description>Fasting is probably the best way to regain your health and to improve your blood chemistry.</description>
+      <guid>http://localhost:1313/blog/how-to-fast/</guid>
+      <description>&lt;p&gt;Fasting is probably the best way to regain your health and to improve your blood chemistry. Today blood testing allows us to know how to fast and the beneficial aspects of fasting. It is an ancient tradition in many cultures and has well-known benefits.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vitamin and Mineral Supplements</title>
-      <link>https://keratoconusguide.netlify.app/blog/vitamin-and-mineral-supplements/</link>
+      <link>http://localhost:1313/blog/vitamin-and-mineral-supplements/</link>
       <pubDate>Wed, 27 Jan 2016 22:28:58 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/vitamin-and-mineral-supplements/</guid>
-      <description>Vitamin and mineral supplements This is a theme that is certainly obscure, should you take vitamin and mineral supplements just to avoid a problem later?</description>
+      <guid>http://localhost:1313/blog/vitamin-and-mineral-supplements/</guid>
+      <description>&lt;p&gt;This is a theme that is certainly obscure, should you take vitamin and mineral supplements just to avoid a problem later? Should you trust that the companies that sell these products are honest and sincere? Or are they just trying to make a sell?   &lt;em&gt;I love to buy things that I believe are good for my health or that I need&lt;/em&gt;, however, most of the time you don&amp;rsquo;t need any of this.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Chinese herbal formulas</title>
+      <link>http://localhost:1313/blog/chinese-herbal-formulas/</link>
+      <pubDate>Fri, 08 Jan 2016 05:47:54 +0000</pubDate>
+      <guid>http://localhost:1313/blog/chinese-herbal-formulas/</guid>
+      <description>&lt;p&gt;Chinese herbal medicine is the biggest branch of traditional Chinese medicine (TCM). The origin of &lt;strong&gt;Chinese Herbal Formulas&lt;/strong&gt; is found in the high mountains of China where every plant, animal, and mineral was tested as medicine in the search for the fountain of youth.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ayurveda remedies</title>
-      <link>https://keratoconusguide.netlify.app/blog/ayurveda-remedies/</link>
+      <link>http://localhost:1313/blog/ayurveda-remedies/</link>
       <pubDate>Wed, 05 Nov 2014 18:12:33 +0000</pubDate>
-      
-      <guid>https://keratoconusguide.netlify.app/blog/ayurveda-remedies/</guid>
-      <description>Keratoconus treatment in Ayurveda The long history of Ayurveda remedies spanning thousands of years is basically and more elegantly explained as &amp;ldquo;getting along with nature and its rhythms&amp;rdquo;.</description>
+      <guid>http://localhost:1313/blog/ayurveda-remedies/</guid>
+      <description>&lt;p&gt;The long history of Ayurveda remedies spanning thousands of years is basically and more elegantly explained as &amp;ldquo;&lt;em&gt;getting along with nature and its rhythms&lt;/em&gt;&amp;rdquo;. On the other hand, we have realized that fighting with nature has caused great suffering in the world, nature is wise and always helps to achieve balance if you let her.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

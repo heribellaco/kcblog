@@ -20,9 +20,6 @@ tags:
 # post type
 type: "blog"
 ---
-Keratoconus treatment in Ayurveda
----------------------------------
-
 The long history of Ayurveda remedies spanning thousands of years is basically and more elegantly explained as "_getting along with nature and its rhythms_". On the other hand, we have realized that fighting with nature has caused great suffering in the world, nature is wise and always helps to achieve balance if you let her.
 
 * * *
@@ -79,8 +76,6 @@ Good Luck
 
 Beto R.
 
-Hi, I love to improve myself and others. Reach me on social media or at [heribertorangel.com](https://www.heribertorangel.com)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 * * *
-
-#### Join #HealthyEyes news... and Get info fast

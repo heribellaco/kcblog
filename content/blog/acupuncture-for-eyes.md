@@ -18,13 +18,12 @@ tags:
 # post type
 type: "blog"
 ---
-### Introduction
 
-The most famous healing technique of Traditional Chinese medicine, **_acupuncture_** uses needles to stimulate your body to heal. The Chinese have recorded the points of the circulation of energy (qi), over the whole body for thousands of years, and therefore can apply needles to various places to treat hundreds of conditions. Acupuncture remains a secure way of balancing your emotions and relaxing your body.
+The famous treatment of Traditional Chinese medicine, **_acupuncture_** uses needles to stimulate your body to heal. The Chinese have recorded the points of the circulation of energy (qi), over the whole body for thousands of years, and therefore can apply needles to various places to treat hundreds of conditions. Acupuncture remains a secure way of balancing your emotions and relaxing your body.
 
-It produces no side effects and is especially effective in aiding the relaxation response. Acupuncture is used to treat eye conditions like conjunctivitis, myopia (especially at the beginning), diabetic retinopathy, retinitis pigmentosa, macular degeneration, retinal detachment, and glaucoma.
+It has no side effects and is very effective in aiding the relaxation response. Acupuncture is used to treat eye conditions like: conjunctivitis, myopia (especially at the beginning), diabetic retinopathy, retinitis pigmentosa, macular degeneration, retinal detachment, and glaucoma.
 
-_Keratoconus_ is not treated with acupuncture; however,  we with _keratoconus_ suffer other eye conditions like – infections, dry eyes, macular degeneration, glaucoma, floaters, and cataracts. You need a practitioner with experience in treating eye diseases with acupuncture, they exist and generally, their treatments are holistic in nature using massage, herbs, homeopathy, supplements, and nutrition.
+Keratoconus is not treated with acupuncture; however,  we with _keratoconus_ suffer other eye conditions like: infections, dry eyes, macular degeneration, glaucoma, floaters, and cataracts. You need a practitioner with experience in treating eye diseases with acupuncture, they exist and generally, their treatments are holistic in nature using massage, herbs, homeopathy, supplements, and nutrition.
 
 ### Acupuncture for eyes
 
@@ -48,7 +47,7 @@ Strengthen lung qi points: LU9, SP3, LI11, BL13 (remember lung is related to the
 
 There is a logic behind the treatment. Some points are stimulated with needles or with _moxibustion_**\***, you need an acupuncturist with experience in these points. The duration of the therapy is usually half an hour three times a week, and you will be alone relaxing in a room.
 
-**\***Application of heat
+*Application of heat
 
 ### Acupuncture for eyes practitioners i know of
 
@@ -79,7 +78,5 @@ Thank you and Good luck!
 **Heriberto R.**
 
 Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
-
-#### Join #HealthyEyes news... and Get info fast
 
 * * *
