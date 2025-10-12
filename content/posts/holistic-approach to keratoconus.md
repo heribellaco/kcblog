@@ -1,5 +1,5 @@
 ---
-title: "The Holistic Approach to Keratoconus Treatment"
+title: "The Holistic Approach to Keratoconus"
 date: 2023-04-09T16:00:31+00:00
 draft: false
 
@@ -78,9 +78,9 @@ By closing your eyes, you allow them to rest and relax, which can prevent the de
 
 In general, anything that improves your health will indirectly benefit your eyes.
 
-There are other ideas to implement, and you can read them in my book "_The Keratoconus User-Guide_" or check my blog on.
+There are other ideas to implement, and you can read them in my book "_The Keratoconus User-Guide_".
 
-[https://heribertorangel.com/](https://heribertorangel.com/)
+Hi, I love to improve myself and others. Reach me on [hrangelm@gmail.com](mailto:hrangelm@gmail.com)
 
 Good Luck!
 

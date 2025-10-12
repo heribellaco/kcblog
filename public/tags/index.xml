@@ -44,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>Treatment</title>
+      <link>http://localhost:1313/tags/treatment/</link>
+      <pubDate>Mon, 16 Dec 2019 20:06:08 +0000</pubDate>
+      <guid>http://localhost:1313/tags/treatment/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Foods</title>
       <link>http://localhost:1313/tags/foods/</link>
       <pubDate>Thu, 28 Nov 2019 01:16:57 +0000</pubDate>
@@ -60,15 +67,8 @@
     <item>
       <title>New</title>
       <link>http://localhost:1313/tags/new/</link>
-      <pubDate>Wed, 03 Apr 2019 20:08:49 +0000</pubDate>
+      <pubDate>Fri, 07 Jul 2017 16:25:12 +0000</pubDate>
       <guid>http://localhost:1313/tags/new/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Treatment</title>
-      <link>http://localhost:1313/tags/treatment/</link>
-      <pubDate>Fri, 08 Jan 2016 05:47:54 +0000</pubDate>
-      <guid>http://localhost:1313/tags/treatment/</guid>
       <description></description>
     </item>
     <item>
