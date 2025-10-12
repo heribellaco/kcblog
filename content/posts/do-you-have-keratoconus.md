@@ -4,7 +4,7 @@ date: 2013-04-03T00:17:08+00:00
 draft: false
 
 # post thumb
-image: "images/featured-post/man-in-blue-shirt.jpg"
+image: "images/featured-post/dogukan-sahin-Wddj9jJFb6k-unsplash.jpg"
 
 # meta description
 description: "The first time you realize you have visual problems is at school, you just can't see clearly from behind the classroom"
@@ -35,4 +35,5 @@ Hi, I love to improve myself and others. Reach me on social media.
 
 * * *
 
-#### Join #HealthyEyes news... and Get info fast
+Photo by <a href="https://unsplash.com/@dogukan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Doğukan Şahin</a> on <a href="https://unsplash.com/photos/person-covering-own-face-Wddj9jJFb6k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
